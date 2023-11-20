@@ -1,0 +1,2 @@
+docker hub: https://hub.docker.com/repository/docker/rayhanvito27/item-app/general
+git hub : https://github.com/rayhanvito42/a433-microservices/tree/proyek-pertama
